@@ -1,5 +1,5 @@
 
-                          Tema _01
+                                              Tema _01
 
 
    Open GL (Open Graphics Library) este un API și nu un limbaj de programare și este folosit pentru a genera scene 2D sau 3D și pentru a desena obiecte pe ecran.
@@ -39,4 +39,5 @@ Vulkan este un derivat API al Open GL pentru aplicații de generație nouă,graf
          Procesul de randare al scenei 3D este afectat de către biblioteca grafică prin controlul fluxului de execuție,
 prin gestionarea stărilor și tranzițiilor ce duc la optimizarea perfomanței. Procesul de randare al scenei 3D mai poate fi afectat de gestionarea resurselor grafice precum texturile și buffer-ele care îmbunătățește 
 grafica 3D.
-     În concluzie,modelul automat cu stări finite are rolul de a asigura randări corecte și de a gestiona grafica pipeline mai eficient pentru scena 3D.
+     
+         În concluzie,modelul automat cu stări finite are rolul de a asigura randări corecte și de a gestiona grafica pipeline mai eficient pentru scena 3D.
